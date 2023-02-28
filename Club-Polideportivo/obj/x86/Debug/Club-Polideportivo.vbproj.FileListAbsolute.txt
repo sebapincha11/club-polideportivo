@@ -1,0 +1,39 @@
+E:\Club-Polideportivo\Club-Polideportivo\bin\Debug\Club-Polideportivo.exe
+E:\Club-Polideportivo\Club-Polideportivo\bin\Debug\Club-Polideportivo.pdb
+E:\Club-Polideportivo\Club-Polideportivo\bin\Debug\Club-Polideportivo.xml
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Resources.resources
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.exe
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.xml
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.pdb
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Registro.resources
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Verificar.resources
+E:\Club-Polideportivo\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Actividades.resources
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.exe
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.xml
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.pdb
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.exe
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.pdb
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.xml
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Actividades.resources
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Registro.resources
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Resources.resources
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Verificar.resources
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.TipoSocio.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.exe
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.xml
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.pdb
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.exe
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.pdb
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\bin\Debug\Club-Polideportivo.xml
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Actividades.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Registro.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Resources.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.TipoSocio.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club_Polideportivo.Verificar.resources
+E:\Faingerch 5to 1era\Analisis de Sistemas\CPL\Programa\Club-Polideportivo\obj\x86\Debug\Club-Polideportivo.vbproj.GenerateResource.Cache
